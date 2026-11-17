@@ -1,0 +1,59 @@
+﻿{
+    "success":  true,
+    "results":  [
+                    {
+                        "platform":  "Mastodon",
+                        "status":  "success",
+                        "posted_url":  "https://mastodon.social/@arbeenahassan/117627189464777389",
+                        "public_access":  true,
+                        "date":  "2026-11-16",
+                        "time":  "17:46:03",
+                        "error":  null
+                    },
+                    {
+                        "platform":  "Bluesky",
+                        "status":  "success",
+                        "posted_url":  "https://bsky.app/profile/arbeenahassan.bsky.social/post/3n2h3h2usfz2d",
+                        "public_access":  true,
+                        "date":  "2026-11-16",
+                        "time":  "17:46:04",
+                        "error":  null
+                    },
+                    {
+                        "platform":  "Dev.to",
+                        "status":  "success",
+                        "posted_url":  "https://dev.to/arbeenahassan/new-business-platform-grow-your-online-visibility-4020",
+                        "public_access":  true,
+                        "date":  "2026-11-16",
+                        "time":  "17:46:04",
+                        "error":  null
+                    },
+                    {
+                        "platform":  "Telegram",
+                        "status":  "success",
+                        "posted_url":  "https://t.me/arbeena_posting_demo/5",
+                        "public_access":  true,
+                        "date":  "2026-11-16",
+                        "time":  "17:46:03",
+                        "error":  null
+                    },
+                    {
+                        "platform":  "Discord",
+                        "status":  "success",
+                        "posted_url":  null,
+                        "public_access":  false,
+                        "date":  "2026-11-16",
+                        "time":  "17:46:03",
+                        "error":  null
+                    },
+                    {
+                        "platform":  "Groq (LLM)",
+                        "status":  "success",
+                        "posted_url":  null,
+                        "public_access":  false,
+                        "date":  "2026-11-16",
+                        "time":  "17:46:03",
+                        "error":  null
+                    }
+                ]
+}

@@ -1,0 +1,15 @@
+{
+  "checked_at": "2026-11-16T17:43:32.589016+00:00",
+  "model": "openai/gpt-oss-20b",
+  "result": {
+    "platform": "Groq (LLM)",
+    "status": "success",
+    "posted_url": null,
+    "public_access": false,
+    "date": "2026-11-16",
+    "time": "17:43:32",
+    "error": null
+  },
+  "generated_title": "Boost Online Visibility with Our New Business Platform",
+  "note": "Groq-only verification; no publishing platform was called."
+}
